@@ -6,4 +6,4 @@ Blue
 Green
 Orange
 Red
-These are the colours of the rainbow
+These are the colours of the rainbow they said.
